@@ -1,0 +1,33 @@
+# github : github.com/9R3A
+# Death Messages Configuration
+# Use &f for white, &c for red
+# Use %player% for the player name
+# Use %killer% for killer name (only works in pvp messages)
+
+messages:
+  # Default message when cause isn't specified
+  default: "&f%player% &chas been Eliminated"
+  
+  # PvP death message
+  pvp: "&f%player% &chas been Eliminated"
+  
+  # Environmental death messages
+  fall: "&f%player% &chas been Eliminated"
+  drowning: "&f%player% &chas been Eliminated"
+  fire: "&f%player% &chas been Eliminated"
+  fire_tick: "&f%player% &chas been Eliminated"
+  lava: "&f%player% &chas been Eliminated"
+  explosion: "&f%player% &chas been Eliminated"
+  void: "&f%player% &chas been Eliminated"
+  poison: "&f%player% &chas been Eliminated"
+  magic: "&f%player% &chas been Eliminated"
+  wither: "&f%player% &chas been Eliminated"
+  falling_block: "&f%player% &chas been Eliminated"
+  thorns: "&f%player% &chas been Eliminated"
+  dragon_breath: "&f%player% &chas been Eliminated"
+  custom: "&f%player% &chas been Eliminated"
+  suicide: "&f%player% &chas been Eliminated"
+  starvation: "&f%player% &chas been Eliminated"
+  suffocation: "&f%player% &chas been Eliminated"
+  cramming: "&f%player% &chas been Eliminated"
+  freeze: "&f%player% &chas been Eliminated" 
