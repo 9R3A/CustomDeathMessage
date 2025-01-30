@@ -62,8 +62,14 @@ The compiled plugin will be in `target/ModernDeathMessages-1.0-SNAPSHOT.jar`
 - Wither
 - And more...
 
+## Download
+
+
+
 For a complete list of supported death types, check the config.yml file.
 
 ##Download 
+
+- From [Here](https://github.com/9R3A/CustomDeathMessage/releases/download/Beta/ModernDeathMessages-1.0-SNAPSHOT.jar)
 
 - From [Here](https://github.com/9R3A/CustomDeathMessage/releases/download/Beta/ModernDeathMessages-1.0-SNAPSHOT.jar)
