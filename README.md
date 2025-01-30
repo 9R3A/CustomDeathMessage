@@ -4,7 +4,7 @@ A Minecraft plugin that displays modern elimination messages for all death types
 
 ## Author
 **9R3A**
-- GitHub: [github.com/9R3A](https://github.com/9R3A)
+- GitHub: [9R3A](https://github.com/9R3A)
 
 ## Features
 - Modern elimination messages for all death types
