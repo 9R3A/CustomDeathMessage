@@ -1,0 +1,6 @@
+name: ModernDeathMessages
+version: 1.0
+main: com.your.plugin.DeathMessages
+author: 9R3A
+github: github.com/9R3A
+api-version: 1.13
